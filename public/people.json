@@ -1,0 +1,20 @@
+{
+    "people": [
+        {
+            "name": "Tom Holland",
+            "url": "people/tom.jpg"
+        },
+        {
+            "name": "Dwayne Johnson",
+            "url": "people/dwayne.jpg"
+        },
+        {
+            "name": "Elon Musk",
+            "url": "people/elon.jpg"
+        },
+        {
+            "name": "Jeff Bezos",
+            "url": "people/jeff.jpg"
+        }
+    ]
+}
